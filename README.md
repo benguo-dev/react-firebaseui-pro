@@ -34,14 +34,14 @@ npm install react-firebaseui-pro
 
 ```js
 // Style with className="firebaseui-icon"
-<ReactFirebaseuiPro uiConfig={uiConfig} firebaseAuth={firebaseAuth} />
+<ReactFirebaseuiPro uiConfig={uiConfig} firebaseAuth={firebaseAuth} className="firebaseui-icon" />
 ```
 <img src="./src/assets/firebaseAuthUI-icon.png" alt="Style with className='firebaseui-icon'" width="80%" />
 
 
 ```js
 // Style with className="firebaseui-icon round"
-<ReactFirebaseuiPro uiConfig={uiConfig} firebaseAuth={firebaseAuth} />
+<ReactFirebaseuiPro uiConfig={uiConfig} firebaseAuth={firebaseAuth} className="firebaseui-icon round" />
 ```
 <img src="./src/assets/firebaseAuthUI-icon-round.png" alt="Style with className='firebaseui-icon round'" width="80%" />
 
