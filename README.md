@@ -11,7 +11,9 @@ React-FirebaseUI-PRO is a React component that provides seamless integration wit
 
 ## Demo
 
-**Live demo: [Demo for firebase auth UI]()**
+**Live demo: [Default style](https://react-firebaseui-pro.vercel.app/)**
+
+**Live demo: [Icon style](https://react-firebaseui-pro-demo2.vercel.app/)**
 
 ## Getting started
 
