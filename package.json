@@ -1,0 +1,59 @@
+{
+  "name": "react-firebaseui-pro",
+  "version": "1.0.1",
+  "description": "react firebaseui component",
+  "author": "Ben Guo",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "react",
+    "react-component",
+    "firebaseui",
+    "react-firebaseui-pro"
+  ],
+  "main": "./dist/index.umd.js",
+  "module": "./dist/index.es.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benguo-dev/react-firebaseui-pro.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "build": "tsc -b && vite build",
+    "publish": "npm run build && npm publish",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "firebaseui": "^6.1.0"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": ">=18.0.0",
+    "@types/react-dom": ">=18.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typescript": "~5.7.2",
+    "typescript-eslint": "^8.24.1",
+    "vite": "^6.2.0",
+    "vite-plugin-css-injected-by-js": "^3.5.2",
+    "vite-plugin-dts": "^4.5.3"
+  }
+}

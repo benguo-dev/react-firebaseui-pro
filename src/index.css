@@ -1,0 +1,24 @@
+@import 'firebaseui/dist/firebaseui.css';
+.firebaseui-icon .firebaseui-idp-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 40px;
+  width: 40px;
+  min-width: 40px;
+  padding: 8px;
+}
+
+.firebaseui-icon.round .firebaseui-idp-button {
+  border-radius: 100%;
+}
+
+.firebaseui-icon .firebaseui-idp-list > .firebaseui-list-item,
+.firebaseui-icon .firebaseui-tenant-list > .firebaseui-list-item {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.firebaseui-icon .firebaseui-idp-text {
+  display: none;
+}
