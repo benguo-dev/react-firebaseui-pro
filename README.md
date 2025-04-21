@@ -1,6 +1,6 @@
-# React-FirebaseUI-PRO
+# react-firebaseui-pro
 
-React-FirebaseUI-PRO is a React component that provides seamless integration with Firebase Authentication using the FirebaseUI library. It simplifies the process of adding authentication flows to your React applications and is fully compatible with both React 18 and React 19.
+react-firebaseui-pro is a React component that provides seamless integration with Firebase Authentication using the FirebaseUI library. It simplifies the process of adding authentication flows to your React applications and is fully compatible with both React 18 and React 19.
 
 ## Features
 - React Compatibility: Works with both React 18 and React 19.
