@@ -21,7 +21,7 @@ npm install
 npm run dev
 ```
 
-<img src="../../../src/assets/firebaseAuthUI.png" alt="Default style" width="80%" />
+<img src="../../src/assets/firebaseAuthUI.png" alt="Default style" width="80%" />
 
 > Default style
 

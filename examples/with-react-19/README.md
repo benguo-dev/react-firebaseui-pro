@@ -21,11 +21,11 @@ npm install
 npm run dev
 ```
 
-<img src="../../../src/assets/firebaseAuthUI-icon.png" alt="Style with className='firebaseui-icon'" width="80%" />
+<img src="../../src/assets/firebaseAuthUI-icon.png" alt="Style with className='firebaseui-icon'" width="80%" />
 
 > Style with className="firebaseui-icon"
 
-<img src="../../../src/assets/firebaseAuthUI-icon-round.png" alt="Style with className='firebaseui-icon round'" width="80%" />
+<img src="../../src/assets/firebaseAuthUI-icon-round.png" alt="Style with className='firebaseui-icon round'" width="80%" />
 
 > Style with className="firebaseui-icon round"
 
