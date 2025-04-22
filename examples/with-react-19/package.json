@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react-firebaseui-pro": "file:../../react-firebaseui-pro-1.0.1.tgz",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-firebaseui-pro": "^1.0.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
