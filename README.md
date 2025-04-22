@@ -11,9 +11,9 @@ react-firebaseui-pro is a React component that provides seamless integration wit
 
 ## Demo
 
-**Live demo: [Default style](https://react-firebaseui-pro.vercel.app/)**
+**Live demo: [Default style](https://react-firebaseui-pro.vercel.app/)** -- **[Demo code](https://github.com/benguo-dev/react-firebaseui-pro/tree/main/examples/with-react-18)**
 
-**Live demo: [Icon style](https://react-firebaseui-pro-demo2.vercel.app/)**
+**Live demo: [Icon style](https://react-firebaseui-pro-demo2.vercel.app/)** -- **[Demo code](https://github.com/benguo-dev/react-firebaseui-pro/tree/main/examples/with-react-19)**
 
 ## Getting started
 
@@ -25,6 +25,14 @@ npm install react-firebaseui-pro
 
 ### Usage
 
+- Add .env file in your project
+- Write your auth and login logic
+
+Examples: 
+**[with-react-18](https://github.com/benguo-dev/react-firebaseui-pro/tree/main/examples/with-react-18)**
+**[with-react-19](https://github.com/benguo-dev/react-firebaseui-pro/tree/main/examples/with-react-19)**
+
+Check the UI and choose your favorite style:
 ```js
 // Default style
 <ReactFirebaseuiPro uiConfig={uiConfig} firebaseAuth={firebaseAuth} />
